@@ -2,6 +2,10 @@
 
 Entre no mundo de GoldenEye 007 em realidade virtual. Esta página reúne o instalador e as instruções em português para jogar com amigos.
 
+**[ABRIR GUIA SIMPLES DE INSTALAÇÃO NO QUEST](https://ricardofilhorh-rgb.github.io/goldeneye-vr-quest/)**
+
+O guia tem os passos Baixar → Instalar → Abrir e as opções Criar sala / Entrar na sala. Se você recebeu um link privado da família, use esse link completo para abrir o pacote correspondente.
+
 ## Baixar e instalar
 
 [![Baixar para Quest](https://img.shields.io/badge/BAIXAR_PARA_QUEST-APK_0.5.13-238636?style=for-the-badge)](https://github.com/ricardofilhorh-rgb/goldeneye-vr-quest/releases/download/v0.5.13/GoldenEye-VR-v0.5.13.apk)
@@ -15,7 +19,7 @@ Esse botão usa o recurso oficial da Meta para enviar a página ao navegador dos
 Versão **0.5.13**, a mesma instalada no Quest do Ricardo. Download de **24,5 MB**. Compatível com **Quest 2, Quest 3, Quest 3S e Quest Pro**.
 
 1. Abra esta página e toque no botão acima para baixar o APK.
-2. No Quest, abra **Arquivos → Downloads**, selecione o APK e use **Instalar**, se essa opção estiver disponível. Se o Quest bloquear a instalação, use o **SideQuest** seguindo o [passo a passo](COMO-INSTALAR.md).
+2. No Quest, abra os **Downloads do navegador**, toque nos **três pontos ⋮** junto ao APK e use **Abrir com → Instalador de pacotes → Instalar**. Se aparecer **Exportar**, use essa opção para abrir a escolha do instalador. A disponibilidade depende da versão do sistema; se faltar essa opção, siga o [passo a passo do SideQuest](COMO-INSTALAR.md).
 3. Abra **GoldenEye VR** na biblioteca ou em **Fontes desconhecidas**.
 4. Na primeira abertura, escolha sua **ROM GoldenEye 007 USA** em **Choose ROM file...**. O APK não inclui os dados do cartucho; cada jogador precisa da própria ROM.
 5. Marque **Stereo VR (3D play)** para jogar dentro do mundo em 3D.

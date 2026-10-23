@@ -1,5 +1,7 @@
 # Instalar GoldenEye VR no Quest
 
+**[Guia simples: Baixar → Instalar → Abrir](https://ricardofilhorh-rgb.github.io/goldeneye-vr-quest/)**
+
 ## Download
 
 **[Baixar o APK 0.5.13 para Quest](https://github.com/ricardofilhorh-rgb/goldeneye-vr-quest/releases/download/v0.5.13/GoldenEye-VR-v0.5.13.apk)**
@@ -24,8 +26,8 @@ Esse caminho usa o SideQuest **dentro do headset**. As instruções com computad
 ## Pelo próprio Quest
 
 1. Abra o link acima no navegador do headset e baixe o APK.
-2. Abra **Arquivos → Downloads** e selecione o arquivo `GoldenEye-VR-v0.5.13.apk`.
-3. Use **Abrir com → Instalador de pacotes**, se necessário, e **Instalar**, quando o sistema permitir.
+2. Abra os **Downloads do navegador** e os **três pontos ⋮** junto ao arquivo `GoldenEye-VR-v0.5.13.apk`.
+3. Use **Abrir com → Instalador de pacotes → Instalar**. Se o menu mostrar **Exportar**, use-o para abrir a escolha do instalador. A opção depende da versão do sistema.
 4. Se a instalação estiver bloqueada, siga o método com SideQuest abaixo. Um link na web não altera as permissões do headset.
 
 ## Com SideQuest no computador
